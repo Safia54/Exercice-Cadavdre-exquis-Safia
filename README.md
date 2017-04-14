@@ -1,6 +1,6 @@
 # Safia fait des slams
 ### Dis nous Safia, que fais-tu de tes journées ?
-*Je me forme à temps plein pour devenir wevdeveloppeuse en pro, pas comme hobyyiste. 
+*Je me forme à temps plein pour devenir webdeveloppeuse en pro, pas comme hobyyiste. Je précise. 
 ### Et quel est ton hobby alors ?
 *Mon hobby ? Ecrire de la **poésie** et la déclamer en **slam** public.
 ### Et sinon ça se passe bien ta formation ?
